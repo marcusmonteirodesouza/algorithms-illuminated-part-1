@@ -1,0 +1,1 @@
+poetry run jupyter lab

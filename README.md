@@ -5,4 +5,5 @@ Solutions for the book [Algorithms Illuminated: Part 1: The Basics](http://www.a
 ## Setup
 
 - Install [poetry](https://python-poetry.org/)
-- Run the `start.sh` script
+- Run `poetry install`
+- Run `start.sh` or `start.ps1`, depending on your shell.

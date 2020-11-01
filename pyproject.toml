@@ -5,7 +5,7 @@ description = ""
 authors = ["Marcus Vinicius Monteiro de Souza <marcusmonteirodesouza@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8.6"
+python = "^3.9.0"
 jupyterlab = "^2.2.9"
 hypothesis = "^5.41.0"
 
