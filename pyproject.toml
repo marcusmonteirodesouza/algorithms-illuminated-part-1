@@ -8,6 +8,7 @@ authors = ["Marcus Vinicius Monteiro de Souza <marcusmonteirodesouza@gmail.com>"
 python = "^3.9.0"
 jupyterlab = "^2.2.9"
 hypothesis = "^5.41.0"
+numpy = "^1.19.4"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
